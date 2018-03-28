@@ -30,6 +30,11 @@ Cables were built with Eurocable brand CAT5 which is foil+braided shielded with 
 [![NES Visual](http://i.imgur.com/B9WCjm5.jpg)](http://i.imgur.com/oQN17On.jpg)
 
 
+## SNES Visualization
+
+<img src="http://i.imgur.com/3k9byuA.jpg" width="450" />
+
+
 ## N64
 
 This prototype board supports basic TAS playback and some more advanced features.
